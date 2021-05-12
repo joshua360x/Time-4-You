@@ -1,0 +1,42 @@
+
+
+
+.centerText {
+  display: flex;
+  justify-content: space-around;
+}
+
+
+
+.brand1 {
+  color: #9ecfff;
+  font-size: 25px;
+  margin: 0 auto;
+  
+}
+
+.custom-nav-bg.navCe {
+  /* background-color: rgb(38, 43, 38); */
+ 
+  /* justify-content: center; */
+  text-align: center;
+  margin: 0 auto;
+  padding-right: 8rem;
+  
+  
+}
+
+.custom-nav {
+  text-align: center;
+
+}
+
+.navBt {
+  
+}
+
+.itemLink {
+  margin: 0 1.5rem;
+  text-align: right;
+}
+

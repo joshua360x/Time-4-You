@@ -1,0 +1,26 @@
+
+
+.home-container {
+  background: url(../images/stil-flRm0z3MEoA-unsplash.jpg) center center/cover no-repeat;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  object-fit: contain;
+  justify-content: center;
+  
+}
+
+
+
+h1 {
+  font-size: 120px;
+  color: #9ecfff;
+
+}
+
+.tagline {
+  font-size: 30px;
+}
+
