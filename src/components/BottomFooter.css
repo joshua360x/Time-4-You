@@ -61,10 +61,10 @@ input {
 }
 
 .policy > .border-scen {
-  border-width: thin;
+  /* border-width: thin;
   border-right: ridge;
   border-spacing:10px;
-  padding: 0 0.5rem;
+  padding: 0 0.5rem; */
   
 }
 
@@ -76,6 +76,7 @@ input {
   text-decoration: none;
   color: white;
   margin-top: auto;
+  padding: 0 .2rem;
 }
 
 

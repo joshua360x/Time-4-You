@@ -38,7 +38,16 @@ function BottomFooter() {
         <a className='footEnd' href='#'>Privacy Policy</a>
         </div>
         <div className="border-scen">
+        <p className="footEnd">|</p>
+
+        </div>
+        <div className="border-scen">
         <a className='footEnd' href='#'>Sitemap</a>
+        
+        </div>
+        <div className="border-scen">
+        <p className="footEnd">|</p>
+
         </div>
         <div className="border-scen">
         <a className='footEnd footEndNone' href='#'>Copyright 2021 Dat Dv LyFE</a>
