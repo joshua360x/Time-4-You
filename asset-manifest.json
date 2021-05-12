@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Time-4-You/static/css/main.5ff965e3.chunk.css",
-    "main.js": "/Time-4-You/static/js/main.63e3fbf2.chunk.js",
-    "main.js.map": "/Time-4-You/static/js/main.63e3fbf2.chunk.js.map",
+    "main.css": "/Time-4-You/static/css/main.6510b8bc.chunk.css",
+    "main.js": "/Time-4-You/static/js/main.479efedd.chunk.js",
+    "main.js.map": "/Time-4-You/static/js/main.479efedd.chunk.js.map",
     "runtime-main.js": "/Time-4-You/static/js/runtime-main.25805aa6.js",
     "runtime-main.js.map": "/Time-4-You/static/js/runtime-main.25805aa6.js.map",
     "static/css/2.800be05e.chunk.css": "/Time-4-You/static/css/2.800be05e.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.42e31caa.chunk.js.map": "/Time-4-You/static/js/3.42e31caa.chunk.js.map",
     "index.html": "/Time-4-You/index.html",
     "static/css/2.800be05e.chunk.css.map": "/Time-4-You/static/css/2.800be05e.chunk.css.map",
-    "static/css/main.5ff965e3.chunk.css.map": "/Time-4-You/static/css/main.5ff965e3.chunk.css.map",
+    "static/css/main.6510b8bc.chunk.css.map": "/Time-4-You/static/css/main.6510b8bc.chunk.css.map",
     "static/js/2.991fae08.chunk.js.LICENSE.txt": "/Time-4-You/static/js/2.991fae08.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/Time-4-You/static/media/logo.6ce24c58.svg",
     "static/media/Footer.css": "/Time-4-You/static/media/pexels-tirachard-kumtanom-733857.24a305e6.jpg",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.25805aa6.js",
     "static/css/2.800be05e.chunk.css",
     "static/js/2.991fae08.chunk.js",
-    "static/css/main.5ff965e3.chunk.css",
-    "static/js/main.63e3fbf2.chunk.js"
+    "static/css/main.6510b8bc.chunk.css",
+    "static/js/main.479efedd.chunk.js"
   ]
 }
